@@ -1,2 +1,2 @@
 # manuelortiz
-Proyectos personales
+Proyecto personal
